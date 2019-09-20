@@ -1,0 +1,62 @@
+h1 {
+  color: #CC2734;
+  font-family: 'Anton', sans-serif;
+  font-size: 12rem;
+  line-height: 11.5rem;
+}
+
+h2 {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: lighter;
+  line-height: 3.875rem;
+  color: black;
+}
+
+.logo {
+  width: 10%;
+}
+
+a {
+  right: 2em;
+  bottom: 2em;
+}
+
+.banner-content {
+  top: 12em;
+  left: 30em;
+}
+
+.stick-1 {
+  width: 40%;
+  position: absolute;
+  top: 20em;
+  right: -7em;
+  z-index: 10000;
+}
+
+.stick-2 {
+  width: 40%;
+  position: absolute;
+  top: 7em;
+  left: 24em;
+  z-index: 10000;
+}
+
+.banner {
+  overflow: hidden;
+  max-height: 46em;
+}
+
+@media only screen and (min-width: 38em) {
+
+  h1 {
+
+  }
+
+}
+
+@media only screen and (min-width: 60em) {
+
+
+  }
+}
